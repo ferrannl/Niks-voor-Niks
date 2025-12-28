@@ -1,3 +1,5 @@
+![NiksvoorNiksmarketplace](logo.gif)
+
 # Niks voor Niks – Local Trade Marketplace
 
 **Niks voor Niks** is a local trade marketplace where members of a trade ring can offer and request products and services using their own virtual currency called **Niksen**.
